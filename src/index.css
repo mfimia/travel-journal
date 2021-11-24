@@ -5,3 +5,38 @@
   padding: 0;
   margin: 0;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 704px;
+  width: 550px;
+  border: 1px black solid;
+  position: absolute;
+  left: 50%;
+  top: 10%;
+  transform: translate(-50%);
+}
+
+.nav-bar {
+  height: 70px;
+  background-color: #f55a5a;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.4608px;
+  line-height: 18px;
+  letter-spacing: -0.075em;
+}
+
+.earth-icon {
+  height: 16px;
+  color: white;
+  margin-right: 3px;
+}
