@@ -36,7 +36,13 @@
 }
 
 .earth-icon {
-  height: 16px;
+  height: 30px;
   color: white;
   margin-right: 3px;
+}
+
+img {
+  width: 125px;
+  height: 168px;
+  border-radius: 5px;
 }
